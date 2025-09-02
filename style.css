@@ -5,3 +5,11 @@ h2 {
 p {
     font-size: 48px;
 }
+
+p {
+    font-style: 48px;
+}
+
+button {
+    border: 1px solid red;
+}
