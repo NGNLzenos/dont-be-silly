@@ -11,3 +11,16 @@
 image{
     width:100px
 }
+### 🧠 原理
+- 三個反引號 ``` 開始，三個反引號 ``` 結束。
+- 支援 **語法高亮**：指定語言（js、python、bash...）。
+- 這叫「fenced code block」，比舊的縮排式更常用。
+
+### 🧩 範例
+```md
+```bash
+# 安裝
+npm install
+
+# 啟動
+npm start
